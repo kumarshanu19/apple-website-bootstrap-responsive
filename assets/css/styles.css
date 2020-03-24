@@ -1,0 +1,155 @@
+.navbar.navbar-dark.navbar-expand-md.fixed-top.bg-dark {
+  background-color: black!important;
+  opacity: 0.8;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: #fff;
+  font-size: 13px;
+}
+
+.navbar-dark .navbar-nav .nav-link .apple-logo {
+  font-size: 25px;
+  line-height: .8;
+}
+
+body {
+  /*padding-top: 50px;*/
+}
+
+.product {
+  padding-top: 90px;
+  text-align: center;
+}
+
+.product h1 {
+  font-size: 52px;
+  font-weight: 600;
+}
+
+.product h2 {
+  font-size: 26px;
+  font-weight: 500;
+}
+
+.product .links {
+  font-size: 21px;
+  margin-bottom: 80px;
+}
+
+.product-small .links {
+  font-size: 21px;
+  margin-bottom: 80px;
+}
+
+.product .links .learn-more {
+  margin-right: 20px;
+}
+
+.product-small .links .learn-more {
+  margin-right: 20px;
+}
+
+.product .links .fa.fa-angle-right {
+  margin-left: 10px;
+  font-size: 24px;
+}
+
+.links .fa.fa-angle-right {
+  margin-left: 10px;
+  font-size: 24px;
+}
+
+.product.iphone-11-pro {
+  background-color: #000;
+  color: #fff;
+}
+
+.nav.navbar-nav.flex-grow-1.justify-content-between {
+  padding: 0 100px;
+}
+
+.product-small {
+  height: 558px;
+  padding-top: -40px;
+  margin: 0 0 10px 10px;
+  text-align: center;
+}
+
+.airpods-pro {
+  height: 558px;
+  padding-top: 40px;
+  margin-top: 0 0 10px 10px;
+  text-align: center;
+  color: white;
+  background-color: #000;
+}
+
+.row.products-grid {
+  margin-bottom: 20px;
+}
+
+.img-fluid.ipad {
+  margin-top: -20px;
+}
+
+.product-small.macbook-pro {
+  margin-top: 50px;
+}
+
+.product-small.ipad {
+  margin-top: 50px;
+}
+
+.img-fluid.apple-3 {
+  margin-top: -40px;
+}
+
+.img-fluid.apple-5 {
+  margin-top: -45px;
+}
+
+.col-md-6.macbook-pro {
+  background-color: #fafafa;
+}
+
+@media (min-width: 300px) {
+  .img-fluid.apple-6 {
+    height: 100%;
+    padding-left: 10px;
+  }
+}
+
+.img-fluid.apple-6 {
+  height: 558px;
+}
+
+.img-fluid.arcade {
+  padding-left: 10px;
+  margin-bottom: 40px;
+  height: 558px;
+}
+
+@media (min-width: 300px) {
+  .img-fluid.arcade {
+    padding-left: 10px;
+    height: 100%;
+    /*margin-bottom: 20px;*/
+  }
+}
+
+.img-fluid.apple-6.tv {
+  height: 100%;
+  /*margin-top: -30px;*/
+  margin-bottom: 20px;
+}
+
+@media (min-width: 300px) {
+  .img-fluid.apple-6.tv {
+    height: 100%;
+    /*margin-top: 10px;*/
+    /*margin-bottom: 20px;*/
+    /*padding-top: 10px;*/
+  }
+}
+
